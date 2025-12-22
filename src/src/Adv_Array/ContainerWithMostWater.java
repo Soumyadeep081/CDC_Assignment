@@ -1,6 +1,4 @@
-package Array2;
-
-import java.util.*;
+package Adv_Array;
 
 public class ContainerWithMostWater {
 
